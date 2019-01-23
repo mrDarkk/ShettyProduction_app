@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "437140535080",
+    "firebase_url": "https://shettyproduction-fce8c.firebaseio.com",
+    "project_id": "shettyproduction-fce8c",
+    "storage_bucket": "shettyproduction-fce8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437140535080:android:2bf87b4a3ac97cf0",
+        "android_client_info": {
+          "package_name": "com.bhupendra.production123"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437140535080-gfhq4ro4run5kvvl7uv5q271tndnklci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bhupendra.production123",
+            "certificate_hash": "8f17ecae86c9f1df0741dab1edb7999c1d41d0cf"
+          }
+        },
+        {
+          "client_id": "437140535080-1cm1vabe1jhq83ml06hmuoapm6t69qut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg8Je3uQ4ZITPxqTMcZxQD9tc9TeBOcVA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437140535080-1cm1vabe1jhq83ml06hmuoapm6t69qut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

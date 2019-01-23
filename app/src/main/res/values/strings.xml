@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Shetty Production</string>
+    <string name="video">Add New Video</string>
+    <string name="name">Song name</string>
+    <string name="url">Video Url</string>
+    <string name="production">production</string>
+    <string name="date">date </string>
+    <string name="year">Year</string>
+    <string name="submit">Submit</string>
+    <string name="audiourl">Audio upload</string>
+    <string name="subname">Subname</string>
+    <string name="img">Song Cover Upload</string>
+    <string name="audio">Add New Audio</string>
+</resources>
